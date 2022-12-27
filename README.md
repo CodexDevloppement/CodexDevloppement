@@ -3,7 +3,7 @@
 <h3 align="center">A team of devlopper funny !</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TeamDevCodex&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CodexDevloppement&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
 
 - 🔭Whe is currently working on: **Nothing**
 
