@@ -1,16 +1,16 @@
-### Hi there 👋
+<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/wiizzl) -->
+<h1 align="center">Hi 👋, We are Codex</h1>
+<h3 align="center">A team of devlopper funny !</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
-<!--
-**TeamDevCodex/TeamDevCodex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TeamDevCodex&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
 
-Here are some ideas to get you started:
+- 🔭Whe is currently working on: **Nothing**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning: **Java**
+
+- 💬Ask us about: **Python**, **Lua**, **VB.NET**, **Node.js** and **Discord.js**
+
+- 📫 How to reach us: **Yokii ll#9995** and **Mushurelie#9527** on **Discord**
+
+- ⚡ Fun fact: **We're funny**
